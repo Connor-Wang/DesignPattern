@@ -1,7 +1,7 @@
-package factorypattern;
+package factory;
 
-import factorypattern.factory.CarFactory;
-import factorypattern.factory.FarrariFactory;
+import factory.factory.CarFactory;
+import factory.factory.FarrariFactory;
 
 public class Main {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package proxypattern;
+package proxy;
 
 public class MaleSinger implements Singer{
 

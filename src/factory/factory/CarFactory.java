@@ -1,6 +1,6 @@
-package factorypattern.factory;
+package factory.factory;
 
-import factorypattern.Car;
+import factory.Car;
 
 public interface CarFactory {
 

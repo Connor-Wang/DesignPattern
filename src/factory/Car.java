@@ -1,4 +1,4 @@
-package factorypattern;
+package factory;
 
 public abstract class Car {
 

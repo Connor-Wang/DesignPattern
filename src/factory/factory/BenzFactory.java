@@ -1,8 +1,7 @@
-package factorypattern.factory;
+package factory.factory;
 
-import factorypattern.Benz;
-import factorypattern.Car;
-import factorypattern.factory.CarFactory;
+import factory.Benz;
+import factory.Car;
 
 public class BenzFactory implements CarFactory {
     @Override
