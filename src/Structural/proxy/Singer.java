@@ -1,4 +1,4 @@
-package proxy;
+package Structural.proxy;
 
 public interface Singer {
 

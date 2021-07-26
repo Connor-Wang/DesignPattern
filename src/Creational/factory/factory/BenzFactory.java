@@ -1,7 +1,7 @@
-package factory.factory;
+package Creational.factory.factory;
 
-import factory.Benz;
-import factory.Car;
+import Creational.factory.Benz;
+import Creational.factory.Car;
 
 public class BenzFactory implements CarFactory {
     @Override

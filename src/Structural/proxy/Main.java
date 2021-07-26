@@ -1,4 +1,4 @@
-package proxy;
+package Structural.proxy;
 
 import java.lang.reflect.Proxy;
 

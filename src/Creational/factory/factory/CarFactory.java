@@ -1,6 +1,6 @@
-package factory.factory;
+package Creational.factory.factory;
 
-import factory.Car;
+import Creational.factory.Car;
 
 public interface CarFactory {
 
